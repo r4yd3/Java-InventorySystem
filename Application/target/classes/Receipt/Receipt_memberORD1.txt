@@ -1,0 +1,21 @@
+=============== Receipt ===============
+Receipt No.: memberORD1
+
+Order Date: 2024-09-30 18:39:34
+Status: PROCESSING
+
+Payment Details:
+Payment ID: PY1
+Payment Date: 2024-09-30 18:39:34
+Amount Paid: 21.98
+Payment Method: T
+
+Items Purchased:
+Item: Art Notebook
+Quantity: 2
+Price per item: 10.99
+Subtotal: 21.98
+
+=======================================
+Total: 21.98
+=======================================

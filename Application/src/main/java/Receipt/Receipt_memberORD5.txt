@@ -1,0 +1,21 @@
+=============== Receipt ===============
+Receipt No.: memberORD5
+
+Order Date: 2024-09-22 20:57:57
+Status: PROCESSING
+
+Payment Details:
+Payment ID: PY3
+Payment Date: 2024-09-22 20:57:57
+Amount Paid: 8.0
+Payment Method: M
+
+Items Purchased:
+Item: Mini Notebook
+Quantity: 2
+Price per item: 4.0
+Subtotal: 8.0
+
+=======================================
+Total: 8.0
+=======================================
